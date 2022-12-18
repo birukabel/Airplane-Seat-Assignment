@@ -1,0 +1,15 @@
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\bin\Debug\net6.0\AirplaneSeatingAlgo.exe
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\bin\Debug\net6.0\AirplaneSeatingAlgo.deps.json
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\bin\Debug\net6.0\AirplaneSeatingAlgo.runtimeconfig.json
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\bin\Debug\net6.0\AirplaneSeatingAlgo.dll
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\bin\Debug\net6.0\AirplaneSeatingAlgo.pdb
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.csproj.AssemblyReference.cache
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.AssemblyInfoInputs.cache
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.AssemblyInfo.cs
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.csproj.CoreCompileInputs.cache
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.dll
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\refint\AirplaneSeatingAlgo.dll
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.pdb
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\AirplaneSeatingAlgo.genruntimeconfig.cache
+D:\Andela\Jackson Assesement\AirplaneSeatingAlgo\AirplaneSeatingAlgo\obj\Debug\net6.0\ref\AirplaneSeatingAlgo.dll
